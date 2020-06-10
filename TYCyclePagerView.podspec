@@ -11,7 +11,6 @@ s.homepage = "https://github.com/12207480/TYCyclePagerView"
 s.license = { :type => 'MIT', :file => 'LICENSE' }
 # 作者名称 和 邮箱
 s.author = { "tany" => "122074809@qq.com" }
-# 作者主页 s.social_media_url =""
 # 代码库最低支持的版本
 s.platform = :ios, "7.0"
 # 代码的Clone 地址 和 tag 版本
